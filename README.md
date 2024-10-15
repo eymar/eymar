@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+[![Oleksandr Karpovich profile views](https://u8views.com/api/v1/github/profiles/7372778/views/day-week-month-total-count.svg)](https://u8views.com/github/eymar)
